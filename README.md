@@ -4,3 +4,6 @@ Anyone is free to use this report/data for further analysis.
 
 Instruction to visualize Heatmap for different crimes-->
 Select the map --> go to the visualization tab --> format option --> data layers -->GeoJson/Shape/KML- Layer1 formatting --> fill color --> fx --> popup window -- >Field --> select your crime
+
+
+Medium Article - https://medium.com/@shane.yeger/is-india-safe-a-data-approcah-3e52f2303e9c
